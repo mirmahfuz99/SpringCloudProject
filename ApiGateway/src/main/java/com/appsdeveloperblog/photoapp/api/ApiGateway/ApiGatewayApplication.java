@@ -1,4 +1,4 @@
-package com.appsdeveloperblog.photoapp.api;
+package com.appsdeveloperblog.photoapp.api.ApiGateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
